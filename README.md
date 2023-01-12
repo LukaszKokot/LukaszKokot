@@ -36,6 +36,8 @@ And you can also find me on [<img src="./images/linkedin-3-16.png" width="16px" 
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/Sqlite-informational?style=flat-square&logo=sqlite&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=sqlite&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Couchbase-informational?style=flat-square&logo=sqlite&logoColor=EBFBFB&color=0C4441)
 
 
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=EBFBFB&color=0C4441)
