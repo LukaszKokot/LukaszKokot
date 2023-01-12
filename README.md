@@ -60,12 +60,12 @@ This one is by me for example:
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/LukaszKokot/LukaszKokot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaszKokot&hide=java,html,tex&title_color=EBFBFB&text_color=EBFBFB&icon_color=2bbc8a&bg_color=0C4441&border_color=0C4441&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LukaszKokot&hide=java,html,tex&title_color=EBFBFB&text_color=EBFBFB&icon_color=2bbc8a&bg_color=0C4441&border_color=0C4441&langs_count=3" />
 </a>
 <br />
 <br />
 <a href="https://github.com/LukaszKokot/LukaszKokot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LukaszKokot&show_icons=true&line_height=27&count_private=true&title_color=EBFBFB&text_color=EBFBFB&icon_color=2bbc8a&bg_color=0C4441&border_color=0C4441" alt="Lukasz Kokot's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LukaszKokot&show_icons=true&line_height=27&count_private=true&title_color=EBFBFB&text_color=EBFBFB&icon_color=2bbc8a&bg_color=0C4441&border_color=0C4441" alt="Lukasz Kokot's GitHub Stats" />
 </a>
 
 <!-- links to your social media accounts -->
