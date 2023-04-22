@@ -26,6 +26,7 @@ And you can also find me on [<img src="./images/linkedin-3-16.png" width="16px" 
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=EBFBFB&color=0C4441)
 
+![](https://img.shields.io/badge/Electron-informational?style=flat&logo=electron&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/NestJS-informational?style=flat&logo=nestjs&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&logoColor=EBFBFB&color=0C4441)
