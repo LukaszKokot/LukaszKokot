@@ -16,39 +16,40 @@ Yes, you guessed it, you will often find me making references to Jim, Dwight and
 And you can also find me on [<img src="./images/linkedin-3-16.png" width="16px" height="16px" />][2].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Nano-informational?style=flat-square&logo=nano&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Nano-informational?style=flat&logo=nano&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=EBFBFB&color=0C4441)
 
-![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=openjdk&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Javacript-informational?style=flat-square&logo=javascript&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Kotlin-informational?style=flat-square&logo=kotlin&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Golang-informational?style=flat-square&logo=go&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Ruby-informational?style=flat-square&logo=ruby&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Javacript-informational?style=flat&logo=javascript&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=EBFBFB&color=0C4441)
 
-![](https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=node.js&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Spring-informational?style=flat-square&logo=spring&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/NestJS-informational?style=flat&logo=nestjs&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&logoColor=EBFBFB&color=0C4441)
 
-![](https://img.shields.io/badge/Angular-informational?style=flat-square&logo=angular&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=vue.js&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Mui-informational?style=flat&logo=mui&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Vuetify-informational?style=flat&logo=vuetify&logoColor=EBFBFB&color=0C4441)
 
-![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Sqlite-informational?style=flat-square&logo=sqlite&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=sqlite&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Couchbase-informational?style=flat-square&logo=sqlite&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Couchbase-informational?style=flat&logo=sqlite&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Sqlite-informational?style=flat&logo=sqlite&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=sqlite&logoColor=EBFBFB&color=0C4441)
 
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Mac%20OS-informational?style=flat&logo=macos&logoColor=EBFBFB&color=0C4441)
 
-![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Mac%20OS-informational?style=flat-square&logo=macos&logoColor=EBFBFB&color=0C4441)
-
-
-![](https://img.shields.io/badge/AWS-informational?style=flat-square&logo=amazon-aws&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Azure-informational?style=flat-square&logo=microsoft-azure&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/CircleCI-informational?style=flat-square&logo=circleci&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Github-informational?style=flat-square&logo=github&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/CircleCI-informational?style=flat&logo=circleci&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=EBFBFB&color=0C4441)
 
 
 ### &#x270d; Blog & Writing
