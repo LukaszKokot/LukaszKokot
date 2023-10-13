@@ -13,7 +13,7 @@ Yes, you guessed it, you will often find me making references to Jim, Dwight and
 
 <img src="https://media.giphy.com/media/xoV4JZ3cBaSGngdxxl/giphy.gif" width="200" alt="Michael Scott Animated Gif" title="Michael Scott" style="border: 1px solid #0C4441" />
 
-And you can also find me on [<img src="./images/linkedin-3-16.png" width="16px" height="16px" />][2].
+And you can also find me on [<img src="./images/linkedin-logo-3.webp" width="14px" height="14px" />][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Nano-informational?style=flat&logo=nano&logoColor=EBFBFB&color=0C4441)
