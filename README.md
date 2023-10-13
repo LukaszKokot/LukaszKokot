@@ -11,7 +11,7 @@ Day-to-day included leading multiple teams, migrating apps to cloud platforms, i
 In 2022, I hosted the **first Kumojin Dundee Awards** 😅 
 Yes, you guessed it, you will often find me making references to Jim, Dwight and Michael Scott from [The Office]([4]), and trying to take the best parts of all of them, especially this guy:
 
-<img src="https://media.giphy.com/media/ui1hpJSyBDWlG/giphy.gif" width="200" alt="Michael Scott Animated Gif" title="Michael Scott" style="border: 1px solid #0C4441" />
+<img src="https://media.giphy.com/media/xoV4JZ3cBaSGngdxxl/giphy.gif" width="200" alt="Michael Scott Animated Gif" title="Michael Scott" style="border: 1px solid #0C4441" />
 
 And you can also find me on [<img src="./images/linkedin-3-16.png" width="16px" height="16px" />][2].
 
