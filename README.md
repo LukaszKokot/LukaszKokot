@@ -8,7 +8,7 @@ I am also a **pragmatic** code quality evangelist, always looking to improve upo
 The past years, I've been working for various clients located in the province of **Québec, and the San Fransisco Bay area**. 
 Day-to-day included leading multiple teams, migrating apps to cloud platforms, improving developer productivity, writing backend code in Java, Golang, Ruby and Node, and crafting frontend code in the Big Three frameworks/libraries, aka React, Angular and Vue. I also dabbled with Electron apps.
 
-In 2022, I hosted the **first Kumojin Dundee Awards** 😅 
+In 2022 and 2023, I hosted the **first and second Kumojin Dundee Awards** 😅 
 Yes, you guessed it, you will often find me making references to Jim, Dwight and Michael Scott from [The Office]([4]), and trying to take the best parts of all of them, especially this guy:
 
 <img src="https://media.giphy.com/media/xoV4JZ3cBaSGngdxxl/giphy.gif" width="200" alt="Michael Scott Animated Gif" title="Michael Scott" style="border: 1px solid #0C4441" />
