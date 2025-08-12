@@ -17,7 +17,8 @@ And you can also find me on [<img src="./images/linkedin-logo-3.webp" width="14p
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Nano-informational?style=flat&logo=nano&logoColor=EBFBFB&color=0C4441)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=vscode&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Zed-informational?style=flat&logo=zedindustries&logoColor=EBFBFB&color=0C4441)
 
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/Javacript-informational?style=flat&logo=javascript&logoColor=EBFBFB&color=0C4441)
@@ -38,6 +39,7 @@ And you can also find me on [<img src="./images/linkedin-logo-3.webp" width="14p
 ![](https://img.shields.io/badge/Vuetify-informational?style=flat&logo=vuetify&logoColor=EBFBFB&color=0C4441)
 
 ![](https://img.shields.io/badge/Couchbase-informational?style=flat&logo=sqlite&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Dynamo%20DB-informational?style=flat&logo=dynamodb&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/Sqlite-informational?style=flat&logo=sqlite&logoColor=EBFBFB&color=0C4441)
