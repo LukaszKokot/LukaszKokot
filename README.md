@@ -65,7 +65,7 @@ This one is by me for example:
 
 ### &#x1f4c8; GitHub Stats
 
-<div style="display: \"flex\"; gap: 32px; flex-direction: \"row\"">
+<div style="display: \"flex\"; gap: 32px; justify-content: \"space-between\"; flex-direction: \"row\"">
   <a href="https://github.com/LukaszKokot/LukaszKokot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaszKokot&hide=java,html,tex&title_color=EBFBFB&text_color=EBFBFB&icon_color=2bbc8a&bg_color=0C4441&border_color=0C4441&langs_count=3" />
   </a>
