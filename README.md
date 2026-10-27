@@ -16,6 +16,11 @@ Yes, you guessed it, you will often find me making references to Jim, Dwight and
 And you can also find me on [<img src="./images/linkedin-logo-3.webp" width="14px" height="14px" />][2].
 
 ## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Claude%20Code-informational?style=flat&logo=claudecode&logoColor=EBFBFB&color=0C4441)
+![](https://img.shields.io/badge/Opencode-informational?style=flat&logo=opencode&logoColor=EBFBFB&color=0C4441)
+
+![](https://img.shields.io/badge/Ghostty-informational?style=flat&logo=ghostty&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/Nano-informational?style=flat&logo=nano&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=vscode&logoColor=EBFBFB&color=0C4441)
 ![](https://img.shields.io/badge/Zed-informational?style=flat&logo=zedindustries&logoColor=EBFBFB&color=0C4441)
